@@ -1,0 +1,11 @@
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CodeMatrixes.exe.config
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CodeMatrixes.exe
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CodeMatrixes.pdb
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CodeMatrixes.Properties.Resources.resources
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CodeMatrixes.exe
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CodeMatrixes.pdb
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CodeMatrixes.Matrice.resources
+C:\Users\ASUS ROG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CodeMatrixes.FMain.resources
